@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "babel-node server.js "
+  },
+  "name": "microservice_cliente",
+  "description": "Express Gateway Instance Bootstraped from Command Line",
+  "repository": {},
+  "license": "UNLICENSED",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-gateway": "^1.16.10",
+    "nodemon": "^2.0.4",
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.0"
+  }
+}
