@@ -1,0 +1,10 @@
+fecha y hora: 2020-11-19 20:46:08.205248 
+Pedido 
+{'id': 3, 'descripcion': 'Hamburguesa', 'idRestaurante': 1, 'idRepartidor': 3, 'idCliente': 3, 'estado': 0} 
+Revisar estado del Pedido 
+fecha y hora: 2020-11-19 20:46:08.205248
+ pedido: 3
+ cliente: 3 
+ estado: 0 
+Agregar Pedido
+fecha y hora: 2020-11-19 20:46:08.249246 se guardo el pedido {'id': 4, 'descripcion': 'quesadilla', 'idrestaurante': 1, 'idrepartidor': 2, 'idcliente': 4}
